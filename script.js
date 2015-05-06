@@ -43,7 +43,7 @@ $(function () {
         $('#container').highcharts('Map', {
             
             title : {
-                text : 'test',
+                text : '2015 Giro Riders by Nationality',
                 style: {fontSize: '20px', fontFamily: 'Arial, Helvetica, sans-serif', color: '#4B4B4B'}
             },
   legend: {
