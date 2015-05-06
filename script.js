@@ -43,7 +43,7 @@ $(function () {
         $('#container').highcharts('Map', {
             
             title : {
-                text : 'Giro D'Italia 2015 Riders by Nationality',
+                text : 'test',
                 style: {fontSize: '20px', fontFamily: 'Arial, Helvetica, sans-serif', color: '#4B4B4B'}
             },
   legend: {
